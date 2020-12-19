@@ -7,3 +7,6 @@
 * LIBRERIAS CARGADAS POR GIULIO BARNUEVO
 - Slixmpp
 - Bapy
+
+* LIBRERIAS CARGADAS POR CRISTHIAM OBLITAS
+- pip install tapioca-instagram

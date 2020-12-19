@@ -10,3 +10,4 @@
 
 * LIBRERIAS CARGADAS POR CRISTHIAM OBLITAS
 - pip install tapioca-instagram
+- pip install instagram

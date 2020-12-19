@@ -7,3 +7,6 @@
 * LIBRERIAS CARGADAS POR GIULIO BARNUEVO
 - Slixmpp
 - Bapy
+* LIBRERIAS CARGADAS POR PEDRO
+- pip install whichtok
+- pip install tiktok-scraper
